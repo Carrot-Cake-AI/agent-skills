@@ -1,0 +1,19 @@
+{
+  "name": "carrot-cake-ai-skills",
+  "version": "1.0.0",
+  "description": "Official Carrot Cake AI agent skills: contact Daniel Rosehill, book a call, request a quote, submit a project spec, start an engagement, pay an invoice, learn what the consultancy does, and explore its open source work and Fritter speech models.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://www.carrotcakeai.com"
+  },
+  "homepage": "https://www.carrotcakeai.com/agents",
+  "repository": "https://github.com/Carrot-Cake-AI/agent-skills",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "carrot-cake-ai",
+    "ai-consultancy",
+    "asr",
+    "fritter",
+    "agent-skills"
+  ]
+}

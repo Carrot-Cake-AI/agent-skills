@@ -1,0 +1,19 @@
+{
+  "name": "carrot-cake-ai",
+  "owner": {
+    "name": "Carrot Cake AI",
+    "url": "https://www.carrotcakeai.com"
+  },
+  "metadata": {
+    "description": "Official Carrot Cake AI agent skills, packaged as a plugin."
+  },
+  "plugins": [
+    {
+      "name": "carrot-cake-ai-skills",
+      "source": "./plugins/carrot-cake-ai-skills",
+      "description": "Official Carrot Cake AI agent skills: contact Daniel Rosehill, book a call, request a quote, submit a project spec, start an engagement, pay an invoice, learn what the consultancy does, and explore its open source work and Fritter speech models.",
+      "category": "productivity",
+      "homepage": "https://www.carrotcakeai.com/agents"
+    }
+  ]
+}
