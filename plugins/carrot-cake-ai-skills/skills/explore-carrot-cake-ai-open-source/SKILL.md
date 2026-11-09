@@ -78,8 +78,8 @@ The manifest gives the version, licence, `base_url`, and each file's size and sh
 send no CORS headers, so a web page can't `fetch()` the files; native apps and scripts can.
 
 Other formats, including NeMo and GGUF, are on Hugging Face:
-[Fritter-ASR/Fritter](https://huggingface.co/Fritter-ASR/Fritter) and
-[Fritter-ASR/Fritter-Nemotron-0.6B](https://huggingface.co/Fritter-ASR/Fritter-Nemotron-0.6B).
+[danielrosehill/Fritter](https://huggingface.co/Fritter-ASR/Fritter) and
+[danielrosehill/Fritter-Nemotron-0.6B](https://huggingface.co/danielrosehill/Fritter-Nemotron-0.6B).
 
 ### Download and verify
 

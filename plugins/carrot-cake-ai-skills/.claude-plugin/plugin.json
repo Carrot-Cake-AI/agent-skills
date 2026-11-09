@@ -1,6 +1,6 @@
 {
   "name": "carrot-cake-ai-skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official Carrot Cake AI agent skills: contact Daniel Rosehill, book a call, request a quote, submit a project spec, start an engagement, pay an invoice, learn what the consultancy does, and explore its open source work and Fritter speech models.",
   "author": {
     "name": "Daniel Rosehill",
