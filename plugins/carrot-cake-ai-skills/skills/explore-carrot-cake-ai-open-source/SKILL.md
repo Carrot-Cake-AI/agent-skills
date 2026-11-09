@@ -52,7 +52,7 @@ Page: https://www.carrotcakeai.com/models/fritter
 ("by Daniel Rosehill"). Say so to the user before they download it, and don't describe it as open
 source. For commercial use, use `contact-carrot-cake-ai`. The streaming build's base model is
 also subject to the NVIDIA Open Model License; its notice and agreement are in the
-[Hugging Face repository](https://huggingface.co/danielrosehill/Fritter-Nemotron-0.6B-sherpa-onnx-int8).
+[Hugging Face repository](https://huggingface.co/Fritter-ASR/Fritter-Nemotron-0.6B-sherpa-onnx-int8).
 
 Be straight about fit: it is trained on one speaker, so other voices may gain less. On held-out
 recordings of that speaker, v1.0 took tech-sentence word error rate from 7.53% to 4.01%, and
@@ -78,8 +78,8 @@ The manifest gives the version, licence, `base_url`, and each file's size and sh
 send no CORS headers, so a web page can't `fetch()` the files; native apps and scripts can.
 
 Other formats, including NeMo and GGUF, are on Hugging Face:
-[danielrosehill/Fritter](https://huggingface.co/danielrosehill/Fritter) and
-[danielrosehill/Fritter-Nemotron-0.6B](https://huggingface.co/danielrosehill/Fritter-Nemotron-0.6B).
+[Fritter-ASR/Fritter](https://huggingface.co/Fritter-ASR/Fritter) and
+[Fritter-ASR/Fritter-Nemotron-0.6B](https://huggingface.co/Fritter-ASR/Fritter-Nemotron-0.6B).
 
 ### Download and verify
 
